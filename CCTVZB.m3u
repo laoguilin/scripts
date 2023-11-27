@@ -37,7 +37,7 @@ http://cfss.cc/api/ysp/cctv16.m3u8
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV4K
 http://cfss.cc/api/ysp/cctv4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CGTN中国
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CGTN中国
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://cfss.cc/api/ysp/zjws.m3u8
@@ -45,7 +45,7 @@ http://cfss.cc/api/ysp/zjws.m3u8
 http://cfss.cc/api/ysp/jsws.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://cfss.cc/api/ysp/dfws.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
@@ -87,7 +87,7 @@ https://iptv.luas.edu.cn/liverespath/ebc9ec3e297c071df95d759b6313b9d9dbc3dbda/ef
 https://iptv.luas.edu.cn/liverespath/11e39871ee899ed6c7bddadb1c83cbd658562297/bd25603388-0-0-014fe4fb21acfc8414f969b38a29037c/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 https://iptv.luas.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/c10d51d64c-0-0-eb4f25a76a7509a0131dd64742139be4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",澳门卫视
 https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
@@ -97,7 +97,7 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TVB娱乐新闻台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVB娱乐新闻台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Jkx9W88.png",8TV (720p) [Geo-blocked]
 https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
@@ -113,33 +113,33 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qSg862A.png",CCTV+ 2 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3综艺 (1080p)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="央视",CCTV-3综艺 (1080p)
 http://183.196.25.171:808/hls/75/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/gBbLyqh.png",CCTV-4 America (1080p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="央视海外",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 Asia (480p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="央视海外",CCTV-4 Asia (480p)
 http://210.210.155.37/qwr9ew/s/s19/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/CjOWx7L.png",CCTV-11戏曲 (1080p)
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="央视",CCTV-11戏曲 (1080p)
 http://183.196.25.171:808/hls/11/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3yTuiOM.png",CCTV-12社会与法制 (1080p)
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="央视",CCTV-12社会与法制 (1080p)
 http://183.196.25.171:808/hls/12/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/jSQURxS.png",CCTV-17农业农村 (1080p)
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="央视",CCTV-17农业农村 (1080p)
 http://183.196.25.171:808/hls/93/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/1VhXilw.png",Celestial Classic 天映经典 (Celestial Classic Movies) (Indonesian Subtitle) (576p)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="港澳台",Celestial Classic 天映经典 (Celestial Classic Movies) (Indonesian Subtitle) (576p)
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Mb5ssnu.png",Celestial Movies (Indonesian Subtitle) (576p)
 http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/fEUmRST.png",CTi News (中天新聞台)
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/fEUmRST.png" group-title="港澳台",CTi News (中天新聞台)
 https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KdJi9af.png",DaAi1 (大愛1) (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="港澳台",DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KdJi9af.png",DaAi2 (大愛2) (720p)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="港澳台",DaAi2 (大愛2) (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/YC7JCHo.png",DAAI TV (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/WqM6xnF.png",Dragon TV International (360p)
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/j9Gebr5.png",FTV News (民視新聞台)
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="港澳台",FTV News (民視新聞台)
 https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/DjI6SS1.png",GEM (576p)
 http://210.210.155.37/uq2663/h/h19/index.m3u8

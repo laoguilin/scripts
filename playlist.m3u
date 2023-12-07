@@ -1,29 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="第一集" group-title="国产剧/不良执念清除师",第一集
-http://192.168.1.68:7800/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_01_1080P.mp4
-#EXTINF:-1 tvg-name="第二集" group-title="国产剧/不良执念清除师",第二集
+
+#EXTINF:-1 tvg-id="episode01" tvg-name="第01集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第01集
+http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_01_1080P.mp4
+
+#EXTINF:-1 tvg-id="episode02" tvg-name="第02集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第02集
 http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_02_1080P.mp4
-#EXTINF:-1 tvg-name="第三集" group-title="国产剧/不良执念清除师",第三集
+
+#EXTINF:-1 tvg-id="episode03" tvg-name="第03集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第03集
 http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_03_1080P.mp4
-#EXTINF:-1 tvg-name="第四集" group-title="国产剧/不良执念清除师",第四集
+
+#EXTINF:-1 tvg-id="episode04" tvg-name="第04集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第04集
 http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_04_1080P.mp4
-#EXTINF:-1 tvg-name="第五集" group-title="国产剧/不良执念清除师",第五集
+
+#EXTINF:-1 tvg-id="episode05" tvg-name="第05集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第05集
 http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_05_1080P.mp4
-#EXTINF:-1 tvg-name="第六集" group-title="国产剧/不良执念清除师",第六集
+
+#EXTINF:-1 tvg-id="episode06" tvg-name="第06集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第06集
 http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_06_1080P.mp4
-#EXTINF:-1 tvg-name="第七集" group-title="国产剧/不良执念清除师",第七集
+
+#EXTINF:-1 tvg-id="episode07" tvg-name="第07集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第07集
 http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_07_1080P.mp4
-#EXTINF:-1 tvg-name="第八集" group-title="国产剧/不良执念清除师",第八集
-http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_068_1080P.mp4
-#EXTINF:-1 tvg-name="第九集" group-title="国产剧/不良执念清除师",第九集
+
+#EXTINF:-1 tvg-id="episode08" tvg-name="第08集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第08集
+http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_08_1080P.mp4
+
+#EXTINF:-1 tvg-id="episode09" tvg-name="第09集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第09集
 http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_09_1080P.mp4
-#EXTINF:-1 tvg-name="第十集" group-title="国产剧/不良执念清除师",第十集
+
+#EXTINF:-1 tvg-id="episode10" tvg-name="第10集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第10集
 http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_10_1080P.mp4
-#EXTINF:-1 tvg-name="第十一集" group-title="国产剧/不良执念清除师",第十一集
+
+#EXTINF:-1 tvg-id="episode11" tvg-name="第11集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第11集
 http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_11_1080P.mp4
-#EXTINF:-1 tvg-name="第十二集" group-title="国产剧/不良执念清除师",第十二集
+
+#EXTINF:-1 tvg-id="episode12" tvg-name="第12集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第12集
 http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_12_1080P.mp4
-#EXTINF:-1 tvg-name="胆小鬼" group-title="国产剧/胆小鬼",胆小鬼
-http://192.168.1.68:7910/d/%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0/%E7%94%B5%E8%A7%86%E5%89%A7/%E5%9B%BD%E4%BA%A7%E5%89%A7/%E8%83%86%E5%B0%8F%E9%AC%BC/Nobody.Knows.S01.2022.WEB-DL.2160p.60fps.H265.10bit.AAC-Xiaomi/Nobody.Knows.2022.S01E12.WEB-DL.4k.60fps.H265.10bit.AAC-Xiaomi.mp4
-#EXTINF:-1 tvg-name="人类清除计划4" group-title="电影/欧美",人类清除计划4
-http://192.168.1.68:19798/static/http/192.168.1.68:19798/False/%2FWebDAV%2F电影%2F4K系列%2F人类清除计划系列%2F人类清除计划4.The.First.Purge.2018.BluRay.2160p.x265.10bit.HDR.2Audio.mUHD-FRDS.mkv

@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="大类1" tvg-id="subcat1" tvg-name="子类1_频道1",频道1
-http://example.com/channel1.m3u8
+#EXTINF:-1 group-title="国产剧" tvg-id="subcat1" tvg-name="不良",第一集
+http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_05_1080P.mp4
 
-#EXTINF:-1 group-title="大类1" tvg-id="subcat1" tvg-name="子类1_频道2",频道2
-http://example.com/channel2.m3u8
+#EXTINF:-1 group-title="国产剧" tvg-id="subcat1" tvg-name="不良",第二集
+http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_06_1080P.mp4
 
-#EXTINF:-1 group-title="大类2" tvg-id="subcat2" tvg-name="子类2_频道1",频道1
-http://example.com/channel3.m3u8
+#EXTINF:-1 group-title="美剧" tvg-id="subcat2" tvg-name="优良",01集
+http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_08_1080P.mp4
 
-#EXTINF:-1 group-title="大类2" tvg-id="subcat2" tvg-name="子类2_频道2",频道2
-http://example.com/channel4.m3u8
+#EXTINF:-1 group-title="美剧" tvg-id="subcat2" tvg-name="优良",02集
+http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_12_1080P.mp4

@@ -1,37 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="episode01" tvg-name="第01集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第01集
-http://192.168.1.68:7500/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_01_1080P.mp4
+#EXTINF:-1 group-title="大类1" tvg-id="subcat1" tvg-name="子类1_频道1",频道1
+http://example.com/channel1.m3u8
 
-#EXTINF:-1 tvg-id="episode02" tvg-name="第02集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第02集
-http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_02_1080P.mp4
+#EXTINF:-1 group-title="大类1" tvg-id="subcat1" tvg-name="子类1_频道2",频道2
+http://example.com/channel2.m3u8
 
-#EXTINF:-1 tvg-id="episode03" tvg-name="第03集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第03集
-http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_03_1080P.mp4
+#EXTINF:-1 group-title="大类2" tvg-id="subcat2" tvg-name="子类2_频道1",频道1
+http://example.com/channel3.m3u8
 
-#EXTINF:-1 tvg-id="episode04" tvg-name="第04集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第04集
-http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_04_1080P.mp4
-
-#EXTINF:-1 tvg-id="episode05" tvg-name="第05集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第05集
-http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_05_1080P.mp4
-
-#EXTINF:-1 tvg-id="episode06" tvg-name="第06集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第06集
-http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_06_1080P.mp4
-
-#EXTINF:-1 tvg-id="episode07" tvg-name="第07集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第07集
-http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_07_1080P.mp4
-
-#EXTINF:-1 tvg-id="episode08" tvg-name="第08集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第08集
-http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_08_1080P.mp4
-
-#EXTINF:-1 tvg-id="episode09" tvg-name="第09集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第09集
-http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_09_1080P.mp4
-
-#EXTINF:-1 tvg-id="episode10" tvg-name="第10集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第10集
-http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_10_1080P.mp4
-
-#EXTINF:-1 tvg-id="episode11" tvg-name="第11集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第11集
-http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_11_1080P.mp4
-
-#EXTINF:-1 tvg-id="episode12" tvg-name="第12集" group-title="每日更新/国产剧/不良执念清除师",不良执念清除师 第12集
-http://192.168.1.68:7910/d/每日更新/电视剧/国产剧/不良执念清除师/不良执念清除师_12_1080P.mp4
+#EXTINF:-1 group-title="大类2" tvg-id="subcat2" tvg-name="子类2_频道2",频道2
+http://example.com/channel4.m3u8
